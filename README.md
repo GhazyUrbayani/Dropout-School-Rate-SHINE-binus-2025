@@ -30,13 +30,13 @@ Tujuan utama dari proyek ini adalah:
 ---
 
 ### 📋 Daftar Isi
-1. [Hasil Akhir](#hasil-akhir)
-2. [Pendekatan Kami](#pendekatan-kami)
-3. [Struktur Repositori](#struktur-repositori)
-4. [Dataset dan Metrik](#dataset-dan-metrik)
-5. [Instalasi dan Penggunaan](#instalasi-dan-penggunaan)
-6. [Tim Kami](#tim-kami)
-7. [Lisensi](#lisensi)
+1. [Hasil Akhir](#-hasil-akhir)
+2. [Pendekatan Kami](#-pendekatan-kami)
+3. [Struktur Repositori](#-struktur-repositori)
+4. [Dataset dan Metrik](#-dataset-dan-metrik)
+5. [Instalasi dan Penggunaan](#-instalasi-dan-penggunaan)
+6. [Tim Kami](#-tim-kami)
+7. [Lisensi](#-lisensi)
 
 ---
 
