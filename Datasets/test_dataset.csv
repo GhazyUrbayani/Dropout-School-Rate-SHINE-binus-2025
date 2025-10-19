@@ -1,0 +1,201 @@
+id,school_name,state,school_type,grade_level,funding_per_student_usd,avg_test_score_percent,student_teacher_ratio,percent_low_income,percent_minority,internet_access_percent
+1,Foster Elementary School,Texas,Public,High,,,25.5,45.5,63.2,53.8
+2,Coleman Elementary School,Ohio,Charter,High,5426.77,89.8,21.7,75.0,20.8,
+3,Mack Elementary School,Michigan,Private,Middle,10012.77,41.3,26.0,33.4,,
+4,Howard High School,Michigan,Charter,Elementary,23231.52,91.5,23.0,77.0,54.6,94.9
+5,Duke High School,North Carolina,Charter,Middle,24779.02,86.0,14.9,91.4,43.1,74.3
+6,Conway Middle School,Florida,Private,Middle,5635.94,65.6,16.7,57.7,17.2,84.2
+7,Reed Middle School,North Carolina,Charter,Elementary,20819.92,46.0,16.0,55.9,40.2,52.0
+8,,North Carolina,Private,High,7794.44,78.0,29.5,41.0,65.1,74.3
+9,Bell Middle School,Illinois,Charter,,9377.88,98.7,18.6,64.3,7.5,56.6
+10,Rhodes High School,Georgia,Public,Elementary,22326.19,97.9,25.1,81.6,19.0,70.2
+11,Jones Elementary School,,Public,Middle,7174.01,80.2,22.9,63.1,46.2,98.5
+12,Rios High School,Georgia,Public,Elementary,13331.98,88.1,24.3,48.2,11.6,69.7
+13,Russell Middle School,California,Charter,High,16921.39,,15.2,71.2,72.3,93.6
+14,Warner Middle School,Pennsylvania,Private,Elementary,20784.6,79.4,21.7,27.6,64.4,65.6
+15,Fuller High School,Florida,Charter,Middle,7323.13,,12.7,74.5,72.5,52.6
+16,Martin Elementary School,Ohio,Private,High,23421.96,93.1,22.0,,54.3,83.0
+17,Hebert Middle School,Pennsylvania,,Elementary,16352.07,44.1,19.1,75.7,42.1,98.2
+18,Jacobs Elementary School,,Public,High,16799.38,68.9,11.8,65.1,85.4,60.5
+19,Williams Middle School,Texas,,Elementary,10604.13,84.3,29.9,11.1,35.1,66.8
+20,Jenkins Elementary School,,Public,High,16369.69,47.1,28.0,74.1,93.7,83.0
+21,Wall High School,Texas,Public,High,16853.7,59.9,,40.3,92.9,52.3
+22,Willis High School,,Charter,Elementary,24312.09,67.8,15.4,34.0,86.1,95.7
+23,Ayala High School,North Carolina,Public,Middle,6551.14,57.6,29.6,94.5,19.9,94.4
+24,Williams Elementary School,New York,Private,Elementary,16355.89,56.2,23.0,53.7,55.9,78.7
+25,Vance High School,Florida,Charter,Elementary,14544.25,93.3,20.9,64.1,17.3,64.4
+26,Reynolds Middle School,Florida,Public,Middle,22070.74,45.3,25.7,11.3,32.1,72.6
+27,Cardenas Middle School,Pennsylvania,Public,High,22558.79,88.5,10.7,49.6,22.6,86.1
+28,Ramirez High School,Texas,Private,High,18936.17,89.5,19.4,25.7,22.4,61.4
+29,,Ohio,Charter,High,9360.59,42.4,18.9,40.8,,64.3
+30,Ruiz High School,Illinois,Charter,Middle,,67.6,,,29.9,78.5
+31,,Illinois,Private,Elementary,9519.47,66.9,19.6,12.4,23.7,80.3
+32,Kim High School,Ohio,Private,Elementary,11620.99,89.9,25.3,55.5,68.8,98.9
+33,Ramos Middle School,North Carolina,Charter,,21648.82,73.5,28.2,51.7,21.7,53.7
+34,Hernandez High School,Ohio,Charter,Middle,,42.1,17.7,56.8,12.5,
+35,Frey Elementary School,Illinois,Public,High,23087.27,79.1,29.2,37.1,87.4,79.0
+36,Morris Middle School,North Carolina,,Middle,14673.39,49.3,11.9,59.1,82.0,69.1
+37,Johnson High School,California,,High,22924.8,82.2,12.8,64.7,75.3,83.9
+38,Benson High School,Texas,Charter,High,16795.47,60.5,27.3,44.6,9.2,97.1
+39,Walker Middle School,Illinois,Public,Middle,12136.25,92.4,21.2,39.2,85.9,60.0
+40,Williamson Middle School,Florida,Charter,High,18628.55,54.8,13.6,72.5,,73.3
+41,,Georgia,Private,,23855.36,60.6,27.0,26.9,56.3,64.8
+42,Barnes High School,New York,Public,Elementary,9815.54,80.5,23.8,66.9,21.4,67.9
+43,Sims High School,North Carolina,Public,Middle,,67.0,25.1,78.5,31.5,60.2
+44,Armstrong High School,Ohio,Private,High,23530.06,,11.8,74.6,14.3,62.1
+45,Silva Elementary School,New York,Public,Middle,12171.78,58.0,27.5,66.2,16.9,87.0
+46,Lewis Elementary School,California,Public,Middle,24559.37,99.1,17.8,10.5,22.1,71.7
+47,Whitaker Elementary School,Florida,Private,Elementary,7629.57,76.0,,60.7,73.8,98.1
+48,Payne Elementary School,Florida,Public,Elementary,10947.39,96.8,28.0,65.8,7.5,99.4
+49,Mckinney Middle School,Pennsylvania,Private,High,10686.95,64.0,29.7,91.1,51.5,74.9
+50,Collins Elementary School,New York,Private,Middle,23248.31,,25.8,94.9,73.9,65.2
+51,Boyd Middle School,Michigan,Private,Middle,15685.52,96.7,28.7,,,54.9
+52,Melendez Middle School,Pennsylvania,Public,High,18768.56,86.6,10.9,78.8,,92.7
+53,Bell High School,Florida,Private,Middle,5999.14,90.2,24.7,,66.4,88.6
+54,Kaufman Elementary School,New York,,Elementary,15178.78,60.6,18.3,49.0,54.3,56.7
+55,Chan Middle School,Michigan,Private,Middle,8923.15,54.5,14.8,58.0,87.4,60.3
+56,Reed High School,New York,Charter,Middle,15304.77,57.2,,10.8,32.4,76.7
+57,Gonzalez High School,New York,Private,High,22589.03,57.2,15.9,14.8,94.5,76.3
+58,Lucero Middle School,,Private,,6285.37,66.8,12.7,77.7,40.7,73.1
+59,Gomez High School,Illinois,Private,Elementary,17205.66,73.4,14.9,64.0,21.0,81.1
+60,Bright Middle School,Pennsylvania,Charter,High,11358.76,56.8,,20.0,55.0,64.5
+61,Wright High School,Georgia,Private,Elementary,20527.55,,13.3,14.1,38.3,50.0
+62,Petersen Middle School,New York,Private,High,21626.14,75.5,18.1,,50.7,90.9
+63,Rogers Elementary School,Georgia,Charter,High,10379.77,73.3,16.2,20.6,26.8,50.3
+64,Hernandez Middle School,,Charter,Elementary,5077.03,87.7,15.4,70.6,50.7,67.8
+65,Simpson Middle School,Ohio,Charter,Middle,13436.12,55.3,23.3,26.9,24.5,
+66,Mayer High School,Illinois,Private,High,20829.1,46.9,16.8,88.4,61.8,
+67,Vazquez Elementary School,,Public,Elementary,,47.5,,79.3,13.6,76.7
+68,Casey Middle School,,Public,High,14079.89,89.1,22.4,84.9,66.2,92.3
+69,Ward High School,Ohio,Private,Elementary,8114.34,83.5,27.3,28.6,41.3,53.0
+70,Diaz High School,Michigan,Private,High,5360.83,51.7,15.2,24.8,,80.5
+71,Parker Elementary School,,Charter,Middle,6850.98,97.7,26.1,14.4,90.0,59.4
+72,Miller Middle School,Illinois,Public,Elementary,10442.89,98.5,21.9,12.6,34.3,80.4
+73,Donaldson Middle School,Michigan,Private,Elementary,6852.91,68.8,15.5,83.9,56.2,58.4
+74,Warren High School,Ohio,Public,High,21720.19,93.5,15.2,37.8,88.8,87.4
+75,Medina Middle School,Illinois,Public,High,21162.97,77.3,20.8,87.5,20.2,67.4
+76,Khan High School,Illinois,Private,High,9111.61,50.0,19.4,61.5,6.0,96.9
+77,Olson Middle School,Ohio,Private,Middle,9336.24,53.0,29.8,16.9,48.6,89.1
+78,Morales Middle School,Georgia,Private,Middle,10648.17,97.7,19.5,93.6,10.2,65.8
+79,Jackson Middle School,Texas,Private,High,15986.0,64.1,23.3,21.3,67.6,51.7
+80,Gonzalez High School,Florida,Public,Middle,10128.6,97.4,27.2,69.6,,58.2
+81,Moore Middle School,North Carolina,Public,High,11340.88,42.4,14.7,61.2,46.6,62.5
+82,Parker Elementary School,Ohio,Charter,Elementary,13670.08,55.7,29.4,45.6,28.8,92.9
+83,Griffin Elementary School,Georgia,Private,High,20262.89,79.7,28.5,64.3,60.5,66.0
+84,Dean Middle School,Georgia,Charter,High,10475.16,99.9,10.2,59.4,46.8,97.4
+85,May High School,Michigan,Charter,Elementary,16547.36,62.3,27.7,,82.9,87.2
+86,Patrick Elementary School,California,Private,Elementary,22742.65,87.5,21.7,,39.4,83.8
+87,Buckley Elementary School,Illinois,Private,Elementary,6459.87,57.0,17.0,,48.4,64.0
+88,Munoz Elementary School,Pennsylvania,Public,Elementary,9059.75,84.3,10.8,49.9,23.8,52.2
+89,Pineda Elementary School,Ohio,,Elementary,12068.6,88.6,16.6,46.6,41.9,99.9
+90,Rodriguez Elementary School,Georgia,Charter,Elementary,,97.5,27.3,24.2,31.3,70.5
+91,Pierce Elementary School,Texas,Charter,Middle,21859.29,80.7,29.4,78.8,9.5,62.1
+92,Cunningham High School,Georgia,Charter,Elementary,8154.29,94.5,19.2,89.6,60.2,74.4
+93,Martin Middle School,California,Private,Elementary,20741.08,86.3,28.8,58.6,81.3,86.3
+94,Gentry Middle School,Florida,Charter,Middle,24210.69,75.6,14.9,45.7,93.3,67.6
+95,Nguyen Elementary School,Illinois,Private,High,11838.63,60.6,24.8,87.9,92.9,92.3
+96,Riley Elementary School,Illinois,Charter,High,22718.72,90.7,,36.9,74.2,69.5
+97,Taylor Middle School,Ohio,Charter,Middle,21980.48,44.2,12.5,70.8,6.8,91.2
+98,Ross Middle School,,Charter,Elementary,21258.7,49.5,11.5,82.4,61.7,64.9
+99,Lynch High School,Illinois,Charter,Elementary,15056.81,53.5,14.7,20.4,20.0,88.9
+100,Spears High School,California,Private,High,20844.2,94.8,12.7,65.4,53.8,83.7
+101,Cain Elementary School,Ohio,Charter,Elementary,21572.96,52.0,25.7,38.8,47.0,73.7
+102,Jordan Middle School,New York,Charter,High,23005.54,92.7,27.2,55.6,74.9,75.9
+103,,Florida,Private,Middle,21788.53,72.7,10.8,89.5,8.0,64.3
+104,Cox Elementary School,Pennsylvania,Private,High,22150.69,59.2,20.9,,59.6,72.5
+105,Harris Elementary School,Georgia,Charter,Middle,24533.7,80.9,16.4,59.8,94.7,
+106,Ibarra High School,Georgia,Charter,Elementary,13074.9,54.1,17.5,73.5,58.1,95.4
+107,Strong Elementary School,Georgia,Private,Elementary,17592.28,56.4,26.9,81.6,63.9,76.0
+108,Fowler High School,North Carolina,Public,Elementary,10657.23,62.4,17.8,30.8,10.8,81.7
+109,Mason Elementary School,North Carolina,Public,Elementary,11847.26,63.3,16.5,69.4,89.2,50.1
+110,Nguyen Elementary School,Ohio,Private,Elementary,21551.26,87.4,13.7,19.9,75.7,51.0
+111,Houston Elementary School,Ohio,Public,Middle,15207.97,83.1,13.8,17.4,80.0,61.4
+112,Hernandez Elementary School,,Private,Elementary,18473.37,88.1,11.3,45.9,36.6,65.1
+113,Guerra Elementary School,Pennsylvania,Private,Elementary,7391.47,92.8,,25.1,17.2,73.9
+114,Williams High School,Georgia,Public,Middle,18579.7,49.8,25.4,69.7,83.4,82.4
+115,Porter High School,Georgia,Private,High,17792.38,88.0,,76.0,92.2,97.5
+116,Bryan Elementary School,Florida,Charter,Elementary,7578.83,40.4,13.3,52.2,47.8,95.5
+117,Fleming Elementary School,Georgia,Charter,High,13012.56,61.0,18.8,28.6,58.4,85.9
+118,Wallace Middle School,Florida,Charter,Middle,12663.93,43.0,22.1,39.1,50.8,54.8
+119,Howard High School,Ohio,Charter,Elementary,13048.54,79.3,22.4,30.2,55.1,76.3
+120,Hutchinson Elementary School,California,Charter,Middle,8276.55,65.2,21.9,,58.6,63.9
+121,Sanchez High School,California,Private,Middle,9212.64,83.8,12.8,64.0,,78.7
+122,Pena High School,Michigan,Private,Elementary,5362.72,46.2,13.5,43.7,91.3,
+123,Moody Middle School,Texas,Private,Middle,10618.98,92.0,10.0,61.4,15.6,61.5
+124,Carpenter Elementary School,Pennsylvania,Charter,,,96.8,18.3,54.0,31.6,93.1
+125,Pham Elementary School,Florida,Private,High,17741.01,65.4,29.2,79.9,27.6,51.7
+126,Cohen Elementary School,Ohio,Charter,High,19511.97,52.3,15.2,89.1,,95.3
+127,,Michigan,Private,Elementary,21985.55,86.4,16.3,32.1,50.2,74.5
+128,,New York,Charter,High,5126.28,99.2,24.6,91.1,14.5,99.5
+129,Acevedo Elementary School,Texas,Public,Middle,21953.97,73.5,20.8,62.2,18.0,68.4
+130,Coleman Elementary School,California,Charter,Elementary,8097.28,,24.3,73.5,39.1,65.9
+131,Walker High School,Illinois,Charter,High,21353.04,84.8,15.0,75.4,10.2,87.5
+132,,New York,Charter,Middle,17863.23,89.8,28.5,92.9,81.2,84.8
+133,Brady Elementary School,Florida,Charter,High,10844.0,65.8,14.0,33.9,,53.9
+134,,Ohio,Charter,Elementary,8775.63,51.9,18.3,12.9,61.0,50.5
+135,Evans Elementary School,Florida,Charter,High,14713.27,80.4,26.2,94.9,39.6,81.0
+136,Mann Elementary School,Texas,Private,Middle,7857.37,52.3,16.0,83.1,93.0,54.0
+137,Acosta Elementary School,Georgia,Charter,High,22585.27,53.4,22.3,68.2,82.0,50.8
+138,Jones High School,Michigan,,Middle,20653.06,57.2,11.6,55.3,51.2,51.5
+139,Vang Elementary School,Illinois,,,15223.64,56.2,18.7,34.7,39.8,54.5
+140,Anderson Middle School,Pennsylvania,Charter,Middle,7681.0,41.3,,60.3,,79.2
+141,Zamora High School,Pennsylvania,Private,High,5025.47,44.7,17.9,54.8,31.3,67.2
+142,Irwin Middle School,Ohio,Charter,High,18887.66,82.5,21.2,55.0,30.3,60.0
+143,Cooper High School,California,Charter,High,18473.01,92.3,25.2,14.2,35.9,67.6
+144,Waters Middle School,Michigan,Charter,Elementary,22885.28,70.3,13.8,72.8,,68.2
+145,Edwards Middle School,Michigan,Charter,High,8253.69,89.3,10.3,10.9,91.5,68.8
+146,Young Elementary School,Pennsylvania,Public,Middle,14987.76,58.6,11.4,43.7,,72.8
+147,Stephens High School,Georgia,Public,Middle,,,13.6,28.8,91.1,75.2
+148,Jones Elementary School,Texas,Private,High,13648.08,73.2,26.4,83.7,49.8,88.8
+149,,Ohio,Private,Middle,18648.87,41.0,29.9,,,96.6
+150,Silva Middle School,North Carolina,Charter,,15866.95,92.5,17.0,87.3,73.3,62.6
+151,Collins Middle School,Georgia,Private,Middle,10805.01,71.9,27.4,55.3,48.5,97.3
+152,Hernandez High School,Pennsylvania,Public,Middle,20297.82,68.4,24.8,25.0,78.0,
+153,Lewis Middle School,Illinois,Public,High,15368.29,88.8,21.9,59.6,80.3,99.7
+154,Shields Middle School,Illinois,Charter,High,15835.24,61.6,29.7,47.1,54.4,84.4
+155,Jackson Elementary School,Texas,Charter,High,20835.75,74.6,19.3,69.5,32.4,58.6
+156,Potts Middle School,Texas,Public,High,20838.57,90.4,23.7,70.2,37.6,80.1
+157,Rubio High School,,Charter,Middle,17503.49,54.9,24.3,48.0,90.8,92.8
+158,Marshall Middle School,,,High,9611.13,,27.3,15.7,35.8,73.2
+159,King Elementary School,Illinois,Public,Elementary,11599.39,53.1,15.1,,17.7,
+160,Vazquez Elementary School,Florida,,Elementary,24569.3,91.9,21.5,40.9,5.3,65.4
+161,Huff Middle School,Florida,Public,Elementary,11360.92,51.5,27.2,12.7,93.3,68.9
+162,Campbell Elementary School,North Carolina,Public,Elementary,12561.65,82.2,28.8,25.9,62.4,67.0
+163,Estrada Elementary School,California,Charter,Elementary,19772.47,48.2,29.2,32.2,65.8,77.8
+164,Lewis Middle School,Florida,Private,Middle,17981.18,63.7,25.4,84.2,59.1,83.0
+165,Martin Elementary School,Pennsylvania,,Middle,5145.76,94.3,19.7,,68.2,60.8
+166,Krueger Middle School,Michigan,Private,High,9747.71,47.2,29.4,14.8,15.1,97.8
+167,Ramirez Middle School,Texas,Private,High,17782.45,82.3,12.3,56.8,12.7,76.7
+168,Schultz High School,North Carolina,Charter,Middle,6516.58,42.2,22.6,,60.0,79.6
+169,Jackson Elementary School,Illinois,Private,Middle,17805.95,,19.2,29.0,11.5,85.8
+170,Goodman High School,New York,,Middle,19973.3,83.6,23.6,37.6,91.3,75.6
+171,Richardson High School,Florida,Charter,Middle,10907.56,54.7,13.9,27.5,26.1,60.0
+172,Jones Elementary School,Ohio,Private,High,23284.76,51.4,28.3,11.4,88.4,97.4
+173,Serrano Elementary School,Florida,Public,,24516.83,,11.0,85.7,,65.9
+174,,Pennsylvania,Public,Middle,18776.09,69.6,25.5,39.4,,50.9
+175,Turner High School,North Carolina,Charter,Elementary,6176.17,61.3,28.2,74.9,88.8,90.2
+176,Martin Elementary School,Pennsylvania,Charter,Elementary,6553.06,62.5,25.0,64.6,20.1,98.8
+177,Sanchez Middle School,Florida,Private,Middle,18844.58,83.6,28.7,84.0,53.8,57.4
+178,Carr High School,Ohio,Private,High,13182.4,96.4,17.2,24.0,85.7,93.2
+179,Patton High School,Florida,Public,,21347.79,47.8,14.6,33.3,71.4,78.1
+180,Yoder Elementary School,Michigan,Private,Middle,18459.54,90.7,14.0,81.8,,52.7
+181,Smith Elementary School,New York,Charter,Middle,9316.56,47.3,10.8,52.6,7.6,77.6
+182,Williams Middle School,Illinois,Public,Middle,16143.85,69.5,22.7,78.2,56.3,54.7
+183,Thompson High School,California,Public,Elementary,9744.0,86.4,11.8,34.0,74.4,58.2
+184,Miller Elementary School,,Private,Middle,14667.99,40.9,23.8,,83.7,81.0
+185,Manning High School,California,Public,Middle,11117.09,77.7,12.4,79.3,10.7,88.5
+186,Anderson Middle School,Ohio,Charter,Elementary,15356.64,59.2,26.2,,28.0,76.9
+187,Atkinson High School,,Charter,Elementary,19243.89,,11.9,78.9,61.6,95.0
+188,Williams Middle School,North Carolina,Private,Middle,19004.2,,16.8,80.4,8.0,97.9
+189,Baker Middle School,North Carolina,,High,8864.83,59.6,17.1,30.4,47.6,64.8
+190,Dean Elementary School,,Private,Middle,19137.66,53.8,10.7,94.1,81.6,93.4
+191,Johnson High School,Florida,Public,Elementary,12324.46,83.7,10.6,59.6,,68.2
+192,Levine High School,Pennsylvania,Private,Elementary,5182.94,70.5,26.2,25.8,69.3,65.5
+193,Cook Middle School,Michigan,Public,High,,47.1,,,88.1,87.9
+194,Rodriguez Middle School,Georgia,Public,Middle,24699.08,54.8,17.4,65.5,,79.1
+195,Jones Elementary School,Florida,Private,Elementary,18000.5,69.5,10.5,,68.1,89.6
+196,Martin Middle School,New York,Public,High,13491.54,80.3,24.4,,16.0,84.9
+197,White Elementary School,New York,Charter,Middle,12585.34,93.6,19.5,31.4,74.0,97.7
+198,Taylor Elementary School,Texas,Private,Elementary,7955.0,68.3,15.1,66.7,,78.5
+199,Brown Middle School,North Carolina,Charter,Middle,5036.13,41.1,26.2,60.9,75.0,95.9
+200,Scott Elementary School,North Carolina,Public,Elementary,19298.9,99.6,15.1,19.7,16.9,75.5
