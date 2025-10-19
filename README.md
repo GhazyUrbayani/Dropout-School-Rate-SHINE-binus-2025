@@ -81,8 +81,9 @@ Untuk meningkatkan stabilitas dan akurasi, model final kami adalah **rata-rata p
 - ├── drafts/ # Folder berisi notebook eksperimen dan draf awal
 - │ ├── binus.ipynb
 - │ └── binus_FIX.ipynb
-- ├── train_dataset.csv # Dataset training
-- ├── test_dataset.csv # Dataset testing
+- ├── Datasets/
+- │ ├── train_dataset.csv # Dataset training
+- │ ├── test_dataset.csv # Dataset testing
 - └── README.md # Anda sedang membacanya
 
 Folder **`drafts`** berisi semua iterasi awal dan eksperimen. Solusi akhir yang menghasilkan submission terbaik berada di `Si_Data_Tuh__Notebook.ipynb`.
